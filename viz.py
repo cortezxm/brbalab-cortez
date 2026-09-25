@@ -137,21 +137,3 @@ def save_light_dark(make_figure, name, out_dir="assets"):
         plt.close(fig)
         paths.append(path)
     return paths
-
-
-def fifa_ratings_plotly(history, teams):
-    """Interactive version of the rating chart for the explorer (Colab/Jupyter only)."""
-    import plotly.graph_objects as go
-
-    t = THEMES["light"]
-    fig = go.Figure()
-    for i, team in enumerate(teams):
-        h = history[history["team"] == team]
-        color = t["series"][i] if i < len(t["series"]) else t["context"]
-        fig.add_trace(go.Scatter(x=h["date"], y=h["rating"], name=team, mode="lines",
-                                 line=dict(width=2, color=color),
-                                 hovertemplate="%{x|%d %b %Y}<br>%{y:.0f}<extra>" + team + "</extra>"))
-    fig.update_layout(template="simple_white", height=420, hovermode="x unified",
-                      margin=dict(l=40, r=20, t=40, b=40),
-                      title="Rating evolution", yaxis_title="Rating")
-    return fig
