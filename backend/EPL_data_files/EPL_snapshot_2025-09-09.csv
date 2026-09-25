@@ -1,0 +1,381 @@
+id,date,gameweek,home_team,away_team,home_score,away_score
+"2025-08-15,Liverpool,Bournemouth",2025-08-15,1,Liverpool,Bournemouth,4,2
+"2025-08-16,Aston Villa,Newcastle Utd",2025-08-16,1,Aston Villa,Newcastle Utd,0,0
+"2025-08-16,Sunderland,West Ham",2025-08-16,1,Sunderland,West Ham,3,0
+"2025-08-16,Tottenham,Burnley",2025-08-16,1,Tottenham,Burnley,3,0
+"2025-08-16,Brighton,Fulham",2025-08-16,1,Brighton,Fulham,1,1
+"2025-08-16,Wolves,Manchester City",2025-08-16,1,Wolves,Manchester City,0,4
+"2025-08-17,Nott'ham Forest,Brentford",2025-08-17,1,Nott'ham Forest,Brentford,3,1
+"2025-08-17,Chelsea,Crystal Palace",2025-08-17,1,Chelsea,Crystal Palace,0,0
+"2025-08-17,Manchester Utd,Arsenal",2025-08-17,1,Manchester Utd,Arsenal,0,1
+"2025-08-18,Leeds United,Everton",2025-08-18,1,Leeds United,Everton,1,0
+"2025-08-22,West Ham,Chelsea",2025-08-22,2,West Ham,Chelsea,1,5
+"2025-08-23,Manchester City,Tottenham",2025-08-23,2,Manchester City,Tottenham,0,2
+"2025-08-23,Bournemouth,Wolves",2025-08-23,2,Bournemouth,Wolves,1,0
+"2025-08-23,Brentford,Aston Villa",2025-08-23,2,Brentford,Aston Villa,1,0
+"2025-08-23,Burnley,Sunderland",2025-08-23,2,Burnley,Sunderland,2,0
+"2025-08-23,Arsenal,Leeds United",2025-08-23,2,Arsenal,Leeds United,5,0
+"2025-08-24,Crystal Palace,Nott'ham Forest",2025-08-24,2,Crystal Palace,Nott'ham Forest,1,1
+"2025-08-24,Everton,Brighton",2025-08-24,2,Everton,Brighton,2,0
+"2025-08-24,Fulham,Manchester Utd",2025-08-24,2,Fulham,Manchester Utd,1,1
+"2025-08-25,Newcastle Utd,Liverpool",2025-08-25,2,Newcastle Utd,Liverpool,2,3
+"2025-08-30,Leeds United,Newcastle Utd",2025-08-30,3,Leeds United,Newcastle Utd,0,0
+"2025-08-30,Manchester Utd,Burnley",2025-08-30,3,Manchester Utd,Burnley,3,2
+"2025-08-30,Tottenham,Bournemouth",2025-08-30,3,Tottenham,Bournemouth,0,1
+"2025-08-30,Sunderland,Brentford",2025-08-30,3,Sunderland,Brentford,2,1
+"2025-08-30,Chelsea,Fulham",2025-08-30,3,Chelsea,Fulham,2,0
+"2025-08-30,Wolves,Everton",2025-08-30,3,Wolves,Everton,2,3
+"2025-08-31,Brighton,Manchester City",2025-08-31,3,Brighton,Manchester City,2,1
+"2025-08-31,Nott'ham Forest,West Ham",2025-08-31,3,Nott'ham Forest,West Ham,0,3
+"2025-08-31,Liverpool,Arsenal",2025-08-31,3,Liverpool,Arsenal,1,0
+"2025-08-31,Aston Villa,Crystal Palace",2025-08-31,3,Aston Villa,Crystal Palace,0,3
+"2025-09-13,Bournemouth,Brighton",2025-09-13,4,Bournemouth,Brighton,-1,-1
+"2025-09-13,Brentford,Chelsea",2025-09-13,4,Brentford,Chelsea,-1,-1
+"2025-09-13,West Ham,Tottenham",2025-09-13,4,West Ham,Tottenham,-1,-1
+"2025-09-13,Newcastle Utd,Wolves",2025-09-13,4,Newcastle Utd,Wolves,-1,-1
+"2025-09-13,Everton,Aston Villa",2025-09-13,4,Everton,Aston Villa,-1,-1
+"2025-09-13,Crystal Palace,Sunderland",2025-09-13,4,Crystal Palace,Sunderland,-1,-1
+"2025-09-13,Arsenal,Nott'ham Forest",2025-09-13,4,Arsenal,Nott'ham Forest,-1,-1
+"2025-09-13,Fulham,Leeds United",2025-09-13,4,Fulham,Leeds United,-1,-1
+"2025-09-14,Burnley,Liverpool",2025-09-14,4,Burnley,Liverpool,-1,-1
+"2025-09-14,Manchester City,Manchester Utd",2025-09-14,4,Manchester City,Manchester Utd,-1,-1
+"2025-09-20,West Ham,Crystal Palace",2025-09-20,5,West Ham,Crystal Palace,-1,-1
+"2025-09-20,Manchester Utd,Chelsea",2025-09-20,5,Manchester Utd,Chelsea,-1,-1
+"2025-09-20,Burnley,Nott'ham Forest",2025-09-20,5,Burnley,Nott'ham Forest,-1,-1
+"2025-09-20,Fulham,Brentford",2025-09-20,5,Fulham,Brentford,-1,-1
+"2025-09-20,Wolves,Leeds United",2025-09-20,5,Wolves,Leeds United,-1,-1
+"2025-09-20,Liverpool,Everton",2025-09-20,5,Liverpool,Everton,-1,-1
+"2025-09-20,Brighton,Tottenham",2025-09-20,5,Brighton,Tottenham,-1,-1
+"2025-09-21,Arsenal,Manchester City",2025-09-21,5,Arsenal,Manchester City,-1,-1
+"2025-09-21,Sunderland,Aston Villa",2025-09-21,5,Sunderland,Aston Villa,-1,-1
+"2025-09-21,Bournemouth,Newcastle Utd",2025-09-21,5,Bournemouth,Newcastle Utd,-1,-1
+"2025-09-27,Brentford,Manchester Utd",2025-09-27,6,Brentford,Manchester Utd,-1,-1
+"2025-09-27,Crystal Palace,Liverpool",2025-09-27,6,Crystal Palace,Liverpool,-1,-1
+"2025-09-27,Manchester City,Burnley",2025-09-27,6,Manchester City,Burnley,-1,-1
+"2025-09-27,Leeds United,Bournemouth",2025-09-27,6,Leeds United,Bournemouth,-1,-1
+"2025-09-27,Chelsea,Brighton",2025-09-27,6,Chelsea,Brighton,-1,-1
+"2025-09-27,Nott'ham Forest,Sunderland",2025-09-27,6,Nott'ham Forest,Sunderland,-1,-1
+"2025-09-27,Tottenham,Wolves",2025-09-27,6,Tottenham,Wolves,-1,-1
+"2025-09-28,Aston Villa,Fulham",2025-09-28,6,Aston Villa,Fulham,-1,-1
+"2025-09-28,Newcastle Utd,Arsenal",2025-09-28,6,Newcastle Utd,Arsenal,-1,-1
+"2025-09-29,Everton,West Ham",2025-09-29,6,Everton,West Ham,-1,-1
+"2025-10-03,Bournemouth,Fulham",2025-10-03,7,Bournemouth,Fulham,-1,-1
+"2025-10-04,Leeds United,Tottenham",2025-10-04,7,Leeds United,Tottenham,-1,-1
+"2025-10-04,Manchester Utd,Sunderland",2025-10-04,7,Manchester Utd,Sunderland,-1,-1
+"2025-10-04,Arsenal,West Ham",2025-10-04,7,Arsenal,West Ham,-1,-1
+"2025-10-04,Chelsea,Liverpool",2025-10-04,7,Chelsea,Liverpool,-1,-1
+"2025-10-05,Aston Villa,Burnley",2025-10-05,7,Aston Villa,Burnley,-1,-1
+"2025-10-05,Wolves,Brighton",2025-10-05,7,Wolves,Brighton,-1,-1
+"2025-10-05,Brentford,Manchester City",2025-10-05,7,Brentford,Manchester City,-1,-1
+"2025-10-05,Everton,Crystal Palace",2025-10-05,7,Everton,Crystal Palace,-1,-1
+"2025-10-05,Newcastle Utd,Nott'ham Forest",2025-10-05,7,Newcastle Utd,Nott'ham Forest,-1,-1
+"2025-10-18,Fulham,Arsenal",2025-10-18,8,Fulham,Arsenal,-1,-1
+"2025-10-18,Burnley,Leeds United",2025-10-18,8,Burnley,Leeds United,-1,-1
+"2025-10-18,Manchester City,Everton",2025-10-18,8,Manchester City,Everton,-1,-1
+"2025-10-18,Crystal Palace,Bournemouth",2025-10-18,8,Crystal Palace,Bournemouth,-1,-1
+"2025-10-18,Brighton,Newcastle Utd",2025-10-18,8,Brighton,Newcastle Utd,-1,-1
+"2025-10-18,Nott'ham Forest,Chelsea",2025-10-18,8,Nott'ham Forest,Chelsea,-1,-1
+"2025-10-18,Sunderland,Wolves",2025-10-18,8,Sunderland,Wolves,-1,-1
+"2025-10-19,Tottenham,Aston Villa",2025-10-19,8,Tottenham,Aston Villa,-1,-1
+"2025-10-19,Liverpool,Manchester Utd",2025-10-19,8,Liverpool,Manchester Utd,-1,-1
+"2025-10-20,West Ham,Brentford",2025-10-20,8,West Ham,Brentford,-1,-1
+"2025-10-24,Leeds United,West Ham",2025-10-24,9,Leeds United,West Ham,-1,-1
+"2025-10-25,Brentford,Liverpool",2025-10-25,9,Brentford,Liverpool,-1,-1
+"2025-10-25,Manchester Utd,Brighton",2025-10-25,9,Manchester Utd,Brighton,-1,-1
+"2025-10-25,Chelsea,Sunderland",2025-10-25,9,Chelsea,Sunderland,-1,-1
+"2025-10-25,Newcastle Utd,Fulham",2025-10-25,9,Newcastle Utd,Fulham,-1,-1
+"2025-10-26,Everton,Tottenham",2025-10-26,9,Everton,Tottenham,-1,-1
+"2025-10-26,Arsenal,Crystal Palace",2025-10-26,9,Arsenal,Crystal Palace,-1,-1
+"2025-10-26,Wolves,Burnley",2025-10-26,9,Wolves,Burnley,-1,-1
+"2025-10-26,Bournemouth,Nott'ham Forest",2025-10-26,9,Bournemouth,Nott'ham Forest,-1,-1
+"2025-10-26,Aston Villa,Manchester City",2025-10-26,9,Aston Villa,Manchester City,-1,-1
+"2025-11-01,Sunderland,Everton",2025-11-01,10,Sunderland,Everton,-1,-1
+"2025-11-01,Liverpool,Aston Villa",2025-11-01,10,Liverpool,Aston Villa,-1,-1
+"2025-11-01,Brighton,Leeds United",2025-11-01,10,Brighton,Leeds United,-1,-1
+"2025-11-01,West Ham,Newcastle Utd",2025-11-01,10,West Ham,Newcastle Utd,-1,-1
+"2025-11-01,Burnley,Arsenal",2025-11-01,10,Burnley,Arsenal,-1,-1
+"2025-11-01,Fulham,Wolves",2025-11-01,10,Fulham,Wolves,-1,-1
+"2025-11-01,Nott'ham Forest,Manchester Utd",2025-11-01,10,Nott'ham Forest,Manchester Utd,-1,-1
+"2025-11-01,Manchester City,Bournemouth",2025-11-01,10,Manchester City,Bournemouth,-1,-1
+"2025-11-01,Tottenham,Chelsea",2025-11-01,10,Tottenham,Chelsea,-1,-1
+"2025-11-01,Crystal Palace,Brentford",2025-11-01,10,Crystal Palace,Brentford,-1,-1
+"2025-11-08,Nott'ham Forest,Leeds United",2025-11-08,11,Nott'ham Forest,Leeds United,-1,-1
+"2025-11-08,Chelsea,Wolves",2025-11-08,11,Chelsea,Wolves,-1,-1
+"2025-11-08,Aston Villa,Bournemouth",2025-11-08,11,Aston Villa,Bournemouth,-1,-1
+"2025-11-08,Tottenham,Manchester Utd",2025-11-08,11,Tottenham,Manchester Utd,-1,-1
+"2025-11-08,Crystal Palace,Brighton",2025-11-08,11,Crystal Palace,Brighton,-1,-1
+"2025-11-08,Sunderland,Arsenal",2025-11-08,11,Sunderland,Arsenal,-1,-1
+"2025-11-08,Brentford,Newcastle Utd",2025-11-08,11,Brentford,Newcastle Utd,-1,-1
+"2025-11-08,Everton,Fulham",2025-11-08,11,Everton,Fulham,-1,-1
+"2025-11-08,West Ham,Burnley",2025-11-08,11,West Ham,Burnley,-1,-1
+"2025-11-08,Manchester City,Liverpool",2025-11-08,11,Manchester City,Liverpool,-1,-1
+"2025-11-22,Brighton,Brentford",2025-11-22,12,Brighton,Brentford,-1,-1
+"2025-11-22,Liverpool,Nott'ham Forest",2025-11-22,12,Liverpool,Nott'ham Forest,-1,-1
+"2025-11-22,Wolves,Crystal Palace",2025-11-22,12,Wolves,Crystal Palace,-1,-1
+"2025-11-22,Newcastle Utd,Manchester City",2025-11-22,12,Newcastle Utd,Manchester City,-1,-1
+"2025-11-22,Burnley,Chelsea",2025-11-22,12,Burnley,Chelsea,-1,-1
+"2025-11-22,Bournemouth,West Ham",2025-11-22,12,Bournemouth,West Ham,-1,-1
+"2025-11-22,Fulham,Sunderland",2025-11-22,12,Fulham,Sunderland,-1,-1
+"2025-11-22,Arsenal,Tottenham",2025-11-22,12,Arsenal,Tottenham,-1,-1
+"2025-11-22,Leeds United,Aston Villa",2025-11-22,12,Leeds United,Aston Villa,-1,-1
+"2025-11-22,Manchester Utd,Everton",2025-11-22,12,Manchester Utd,Everton,-1,-1
+"2025-11-29,Tottenham,Fulham",2025-11-29,13,Tottenham,Fulham,-1,-1
+"2025-11-29,Nott'ham Forest,Brighton",2025-11-29,13,Nott'ham Forest,Brighton,-1,-1
+"2025-11-29,Manchester City,Leeds United",2025-11-29,13,Manchester City,Leeds United,-1,-1
+"2025-11-29,Everton,Newcastle Utd",2025-11-29,13,Everton,Newcastle Utd,-1,-1
+"2025-11-29,Brentford,Burnley",2025-11-29,13,Brentford,Burnley,-1,-1
+"2025-11-29,Sunderland,Bournemouth",2025-11-29,13,Sunderland,Bournemouth,-1,-1
+"2025-11-29,Crystal Palace,Manchester Utd",2025-11-29,13,Crystal Palace,Manchester Utd,-1,-1
+"2025-11-29,Aston Villa,Wolves",2025-11-29,13,Aston Villa,Wolves,-1,-1
+"2025-11-29,West Ham,Liverpool",2025-11-29,13,West Ham,Liverpool,-1,-1
+"2025-11-29,Chelsea,Arsenal",2025-11-29,13,Chelsea,Arsenal,-1,-1
+"2025-12-03,Liverpool,Sunderland",2025-12-03,14,Liverpool,Sunderland,-1,-1
+"2025-12-03,Fulham,Manchester City",2025-12-03,14,Fulham,Manchester City,-1,-1
+"2025-12-03,Newcastle Utd,Tottenham",2025-12-03,14,Newcastle Utd,Tottenham,-1,-1
+"2025-12-03,Leeds United,Chelsea",2025-12-03,14,Leeds United,Chelsea,-1,-1
+"2025-12-03,Arsenal,Brentford",2025-12-03,14,Arsenal,Brentford,-1,-1
+"2025-12-03,Burnley,Crystal Palace",2025-12-03,14,Burnley,Crystal Palace,-1,-1
+"2025-12-03,Manchester Utd,West Ham",2025-12-03,14,Manchester Utd,West Ham,-1,-1
+"2025-12-03,Wolves,Nott'ham Forest",2025-12-03,14,Wolves,Nott'ham Forest,-1,-1
+"2025-12-03,Bournemouth,Everton",2025-12-03,14,Bournemouth,Everton,-1,-1
+"2025-12-03,Brighton,Aston Villa",2025-12-03,14,Brighton,Aston Villa,-1,-1
+"2025-12-06,Everton,Nott'ham Forest",2025-12-06,15,Everton,Nott'ham Forest,-1,-1
+"2025-12-06,Bournemouth,Chelsea",2025-12-06,15,Bournemouth,Chelsea,-1,-1
+"2025-12-06,Brighton,West Ham",2025-12-06,15,Brighton,West Ham,-1,-1
+"2025-12-06,Manchester City,Sunderland",2025-12-06,15,Manchester City,Sunderland,-1,-1
+"2025-12-06,Newcastle Utd,Burnley",2025-12-06,15,Newcastle Utd,Burnley,-1,-1
+"2025-12-06,Wolves,Manchester Utd",2025-12-06,15,Wolves,Manchester Utd,-1,-1
+"2025-12-06,Aston Villa,Arsenal",2025-12-06,15,Aston Villa,Arsenal,-1,-1
+"2025-12-06,Leeds United,Liverpool",2025-12-06,15,Leeds United,Liverpool,-1,-1
+"2025-12-06,Fulham,Crystal Palace",2025-12-06,15,Fulham,Crystal Palace,-1,-1
+"2025-12-06,Tottenham,Brentford",2025-12-06,15,Tottenham,Brentford,-1,-1
+"2025-12-13,Liverpool,Brighton",2025-12-13,16,Liverpool,Brighton,-1,-1
+"2025-12-13,Arsenal,Wolves",2025-12-13,16,Arsenal,Wolves,-1,-1
+"2025-12-13,Brentford,Leeds United",2025-12-13,16,Brentford,Leeds United,-1,-1
+"2025-12-13,Burnley,Fulham",2025-12-13,16,Burnley,Fulham,-1,-1
+"2025-12-13,Chelsea,Everton",2025-12-13,16,Chelsea,Everton,-1,-1
+"2025-12-13,West Ham,Aston Villa",2025-12-13,16,West Ham,Aston Villa,-1,-1
+"2025-12-13,Manchester Utd,Bournemouth",2025-12-13,16,Manchester Utd,Bournemouth,-1,-1
+"2025-12-13,Nott'ham Forest,Tottenham",2025-12-13,16,Nott'ham Forest,Tottenham,-1,-1
+"2025-12-13,Sunderland,Newcastle Utd",2025-12-13,16,Sunderland,Newcastle Utd,-1,-1
+"2025-12-13,Crystal Palace,Manchester City",2025-12-13,16,Crystal Palace,Manchester City,-1,-1
+"2025-12-20,Everton,Arsenal",2025-12-20,17,Everton,Arsenal,-1,-1
+"2025-12-20,Fulham,Nott'ham Forest",2025-12-20,17,Fulham,Nott'ham Forest,-1,-1
+"2025-12-20,Leeds United,Crystal Palace",2025-12-20,17,Leeds United,Crystal Palace,-1,-1
+"2025-12-20,Newcastle Utd,Chelsea",2025-12-20,17,Newcastle Utd,Chelsea,-1,-1
+"2025-12-20,Manchester City,West Ham",2025-12-20,17,Manchester City,West Ham,-1,-1
+"2025-12-20,Brighton,Sunderland",2025-12-20,17,Brighton,Sunderland,-1,-1
+"2025-12-20,Wolves,Brentford",2025-12-20,17,Wolves,Brentford,-1,-1
+"2025-12-20,Tottenham,Liverpool",2025-12-20,17,Tottenham,Liverpool,-1,-1
+"2025-12-20,Aston Villa,Manchester Utd",2025-12-20,17,Aston Villa,Manchester Utd,-1,-1
+"2025-12-20,Bournemouth,Burnley",2025-12-20,17,Bournemouth,Burnley,-1,-1
+"2025-12-27,Sunderland,Leeds United",2025-12-27,18,Sunderland,Leeds United,-1,-1
+"2025-12-27,Brentford,Bournemouth",2025-12-27,18,Brentford,Bournemouth,-1,-1
+"2025-12-27,Manchester Utd,Newcastle Utd",2025-12-27,18,Manchester Utd,Newcastle Utd,-1,-1
+"2025-12-27,Arsenal,Brighton",2025-12-27,18,Arsenal,Brighton,-1,-1
+"2025-12-27,Chelsea,Aston Villa",2025-12-27,18,Chelsea,Aston Villa,-1,-1
+"2025-12-27,Nott'ham Forest,Manchester City",2025-12-27,18,Nott'ham Forest,Manchester City,-1,-1
+"2025-12-27,Crystal Palace,Tottenham",2025-12-27,18,Crystal Palace,Tottenham,-1,-1
+"2025-12-27,Liverpool,Wolves",2025-12-27,18,Liverpool,Wolves,-1,-1
+"2025-12-27,West Ham,Fulham",2025-12-27,18,West Ham,Fulham,-1,-1
+"2025-12-27,Burnley,Everton",2025-12-27,18,Burnley,Everton,-1,-1
+"2025-12-30,West Ham,Brighton",2025-12-30,19,West Ham,Brighton,-1,-1
+"2025-12-30,Burnley,Newcastle Utd",2025-12-30,19,Burnley,Newcastle Utd,-1,-1
+"2025-12-30,Crystal Palace,Fulham",2025-12-30,19,Crystal Palace,Fulham,-1,-1
+"2025-12-30,Liverpool,Leeds United",2025-12-30,19,Liverpool,Leeds United,-1,-1
+"2025-12-30,Manchester Utd,Wolves",2025-12-30,19,Manchester Utd,Wolves,-1,-1
+"2025-12-30,Chelsea,Bournemouth",2025-12-30,19,Chelsea,Bournemouth,-1,-1
+"2025-12-30,Nott'ham Forest,Everton",2025-12-30,19,Nott'ham Forest,Everton,-1,-1
+"2025-12-30,Sunderland,Manchester City",2025-12-30,19,Sunderland,Manchester City,-1,-1
+"2025-12-30,Arsenal,Aston Villa",2025-12-30,19,Arsenal,Aston Villa,-1,-1
+"2025-12-30,Brentford,Tottenham",2025-12-30,19,Brentford,Tottenham,-1,-1
+"2026-01-03,Tottenham,Sunderland",2026-01-03,20,Tottenham,Sunderland,-1,-1
+"2026-01-03,Brighton,Burnley",2026-01-03,20,Brighton,Burnley,-1,-1
+"2026-01-03,Leeds United,Manchester Utd",2026-01-03,20,Leeds United,Manchester Utd,-1,-1
+"2026-01-03,Bournemouth,Arsenal",2026-01-03,20,Bournemouth,Arsenal,-1,-1
+"2026-01-03,Everton,Brentford",2026-01-03,20,Everton,Brentford,-1,-1
+"2026-01-03,Newcastle Utd,Crystal Palace",2026-01-03,20,Newcastle Utd,Crystal Palace,-1,-1
+"2026-01-03,Aston Villa,Nott'ham Forest",2026-01-03,20,Aston Villa,Nott'ham Forest,-1,-1
+"2026-01-03,Wolves,West Ham",2026-01-03,20,Wolves,West Ham,-1,-1
+"2026-01-03,Manchester City,Chelsea",2026-01-03,20,Manchester City,Chelsea,-1,-1
+"2026-01-03,Fulham,Liverpool",2026-01-03,20,Fulham,Liverpool,-1,-1
+"2026-01-07,Bournemouth,Tottenham",2026-01-07,21,Bournemouth,Tottenham,-1,-1
+"2026-01-07,Brentford,Sunderland",2026-01-07,21,Brentford,Sunderland,-1,-1
+"2026-01-07,Newcastle Utd,Leeds United",2026-01-07,21,Newcastle Utd,Leeds United,-1,-1
+"2026-01-07,Everton,Wolves",2026-01-07,21,Everton,Wolves,-1,-1
+"2026-01-07,Fulham,Chelsea",2026-01-07,21,Fulham,Chelsea,-1,-1
+"2026-01-07,Burnley,Manchester Utd",2026-01-07,21,Burnley,Manchester Utd,-1,-1
+"2026-01-07,Crystal Palace,Aston Villa",2026-01-07,21,Crystal Palace,Aston Villa,-1,-1
+"2026-01-07,West Ham,Nott'ham Forest",2026-01-07,21,West Ham,Nott'ham Forest,-1,-1
+"2026-01-07,Manchester City,Brighton",2026-01-07,21,Manchester City,Brighton,-1,-1
+"2026-01-07,Arsenal,Liverpool",2026-01-07,21,Arsenal,Liverpool,-1,-1
+"2026-01-17,Wolves,Newcastle Utd",2026-01-17,22,Wolves,Newcastle Utd,-1,-1
+"2026-01-17,Sunderland,Crystal Palace",2026-01-17,22,Sunderland,Crystal Palace,-1,-1
+"2026-01-17,Chelsea,Brentford",2026-01-17,22,Chelsea,Brentford,-1,-1
+"2026-01-17,Nott'ham Forest,Arsenal",2026-01-17,22,Nott'ham Forest,Arsenal,-1,-1
+"2026-01-17,Brighton,Bournemouth",2026-01-17,22,Brighton,Bournemouth,-1,-1
+"2026-01-17,Tottenham,West Ham",2026-01-17,22,Tottenham,West Ham,-1,-1
+"2026-01-17,Manchester Utd,Manchester City",2026-01-17,22,Manchester Utd,Manchester City,-1,-1
+"2026-01-17,Liverpool,Burnley",2026-01-17,22,Liverpool,Burnley,-1,-1
+"2026-01-17,Leeds United,Fulham",2026-01-17,22,Leeds United,Fulham,-1,-1
+"2026-01-17,Aston Villa,Everton",2026-01-17,22,Aston Villa,Everton,-1,-1
+"2026-01-24,Newcastle Utd,Aston Villa",2026-01-24,23,Newcastle Utd,Aston Villa,-1,-1
+"2026-01-24,Burnley,Tottenham",2026-01-24,23,Burnley,Tottenham,-1,-1
+"2026-01-24,Crystal Palace,Chelsea",2026-01-24,23,Crystal Palace,Chelsea,-1,-1
+"2026-01-24,Bournemouth,Liverpool",2026-01-24,23,Bournemouth,Liverpool,-1,-1
+"2026-01-24,Everton,Leeds United",2026-01-24,23,Everton,Leeds United,-1,-1
+"2026-01-24,West Ham,Sunderland",2026-01-24,23,West Ham,Sunderland,-1,-1
+"2026-01-24,Manchester City,Wolves",2026-01-24,23,Manchester City,Wolves,-1,-1
+"2026-01-24,Fulham,Brighton",2026-01-24,23,Fulham,Brighton,-1,-1
+"2026-01-24,Arsenal,Manchester Utd",2026-01-24,23,Arsenal,Manchester Utd,-1,-1
+"2026-01-24,Brentford,Nott'ham Forest",2026-01-24,23,Brentford,Nott'ham Forest,-1,-1
+"2026-01-31,Leeds United,Arsenal",2026-01-31,24,Leeds United,Arsenal,-1,-1
+"2026-01-31,Manchester Utd,Fulham",2026-01-31,24,Manchester Utd,Fulham,-1,-1
+"2026-01-31,Wolves,Bournemouth",2026-01-31,24,Wolves,Bournemouth,-1,-1
+"2026-01-31,Sunderland,Burnley",2026-01-31,24,Sunderland,Burnley,-1,-1
+"2026-01-31,Brighton,Everton",2026-01-31,24,Brighton,Everton,-1,-1
+"2026-01-31,Aston Villa,Brentford",2026-01-31,24,Aston Villa,Brentford,-1,-1
+"2026-01-31,Tottenham,Manchester City",2026-01-31,24,Tottenham,Manchester City,-1,-1
+"2026-01-31,Liverpool,Newcastle Utd",2026-01-31,24,Liverpool,Newcastle Utd,-1,-1
+"2026-01-31,Chelsea,West Ham",2026-01-31,24,Chelsea,West Ham,-1,-1
+"2026-01-31,Nott'ham Forest,Crystal Palace",2026-01-31,24,Nott'ham Forest,Crystal Palace,-1,-1
+"2026-02-07,Fulham,Everton",2026-02-07,25,Fulham,Everton,-1,-1
+"2026-02-07,Burnley,West Ham",2026-02-07,25,Burnley,West Ham,-1,-1
+"2026-02-07,Leeds United,Nott'ham Forest",2026-02-07,25,Leeds United,Nott'ham Forest,-1,-1
+"2026-02-07,Arsenal,Sunderland",2026-02-07,25,Arsenal,Sunderland,-1,-1
+"2026-02-07,Liverpool,Manchester City",2026-02-07,25,Liverpool,Manchester City,-1,-1
+"2026-02-07,Wolves,Chelsea",2026-02-07,25,Wolves,Chelsea,-1,-1
+"2026-02-07,Manchester Utd,Tottenham",2026-02-07,25,Manchester Utd,Tottenham,-1,-1
+"2026-02-07,Bournemouth,Aston Villa",2026-02-07,25,Bournemouth,Aston Villa,-1,-1
+"2026-02-07,Newcastle Utd,Brentford",2026-02-07,25,Newcastle Utd,Brentford,-1,-1
+"2026-02-07,Brighton,Crystal Palace",2026-02-07,25,Brighton,Crystal Palace,-1,-1
+"2026-02-11,Manchester City,Fulham",2026-02-11,26,Manchester City,Fulham,-1,-1
+"2026-02-11,Brentford,Arsenal",2026-02-11,26,Brentford,Arsenal,-1,-1
+"2026-02-11,Tottenham,Newcastle Utd",2026-02-11,26,Tottenham,Newcastle Utd,-1,-1
+"2026-02-11,Aston Villa,Brighton",2026-02-11,26,Aston Villa,Brighton,-1,-1
+"2026-02-11,West Ham,Manchester Utd",2026-02-11,26,West Ham,Manchester Utd,-1,-1
+"2026-02-11,Everton,Bournemouth",2026-02-11,26,Everton,Bournemouth,-1,-1
+"2026-02-11,Crystal Palace,Burnley",2026-02-11,26,Crystal Palace,Burnley,-1,-1
+"2026-02-11,Chelsea,Leeds United",2026-02-11,26,Chelsea,Leeds United,-1,-1
+"2026-02-11,Nott'ham Forest,Wolves",2026-02-11,26,Nott'ham Forest,Wolves,-1,-1
+"2026-02-11,Sunderland,Liverpool",2026-02-11,26,Sunderland,Liverpool,-1,-1
+"2026-02-21,West Ham,Bournemouth",2026-02-21,27,West Ham,Bournemouth,-1,-1
+"2026-02-21,Manchester City,Newcastle Utd",2026-02-21,27,Manchester City,Newcastle Utd,-1,-1
+"2026-02-21,Crystal Palace,Wolves",2026-02-21,27,Crystal Palace,Wolves,-1,-1
+"2026-02-21,Sunderland,Fulham",2026-02-21,27,Sunderland,Fulham,-1,-1
+"2026-02-21,Brentford,Brighton",2026-02-21,27,Brentford,Brighton,-1,-1
+"2026-02-21,Aston Villa,Leeds United",2026-02-21,27,Aston Villa,Leeds United,-1,-1
+"2026-02-21,Tottenham,Arsenal",2026-02-21,27,Tottenham,Arsenal,-1,-1
+"2026-02-21,Chelsea,Burnley",2026-02-21,27,Chelsea,Burnley,-1,-1
+"2026-02-21,Everton,Manchester Utd",2026-02-21,27,Everton,Manchester Utd,-1,-1
+"2026-02-21,Nott'ham Forest,Liverpool",2026-02-21,27,Nott'ham Forest,Liverpool,-1,-1
+"2026-02-28,Arsenal,Chelsea",2026-02-28,28,Arsenal,Chelsea,-1,-1
+"2026-02-28,Wolves,Aston Villa",2026-02-28,28,Wolves,Aston Villa,-1,-1
+"2026-02-28,Leeds United,Manchester City",2026-02-28,28,Leeds United,Manchester City,-1,-1
+"2026-02-28,Fulham,Tottenham",2026-02-28,28,Fulham,Tottenham,-1,-1
+"2026-02-28,Manchester Utd,Crystal Palace",2026-02-28,28,Manchester Utd,Crystal Palace,-1,-1
+"2026-02-28,Bournemouth,Sunderland",2026-02-28,28,Bournemouth,Sunderland,-1,-1
+"2026-02-28,Brighton,Nott'ham Forest",2026-02-28,28,Brighton,Nott'ham Forest,-1,-1
+"2026-02-28,Burnley,Brentford",2026-02-28,28,Burnley,Brentford,-1,-1
+"2026-02-28,Newcastle Utd,Everton",2026-02-28,28,Newcastle Utd,Everton,-1,-1
+"2026-02-28,Liverpool,West Ham",2026-02-28,28,Liverpool,West Ham,-1,-1
+"2026-03-04,Newcastle Utd,Manchester Utd",2026-03-04,29,Newcastle Utd,Manchester Utd,-1,-1
+"2026-03-04,Manchester City,Nott'ham Forest",2026-03-04,29,Manchester City,Nott'ham Forest,-1,-1
+"2026-03-04,Bournemouth,Brentford",2026-03-04,29,Bournemouth,Brentford,-1,-1
+"2026-03-04,Leeds United,Sunderland",2026-03-04,29,Leeds United,Sunderland,-1,-1
+"2026-03-04,Fulham,West Ham",2026-03-04,29,Fulham,West Ham,-1,-1
+"2026-03-04,Everton,Burnley",2026-03-04,29,Everton,Burnley,-1,-1
+"2026-03-04,Aston Villa,Chelsea",2026-03-04,29,Aston Villa,Chelsea,-1,-1
+"2026-03-04,Wolves,Liverpool",2026-03-04,29,Wolves,Liverpool,-1,-1
+"2026-03-04,Brighton,Arsenal",2026-03-04,29,Brighton,Arsenal,-1,-1
+"2026-03-04,Tottenham,Crystal Palace",2026-03-04,29,Tottenham,Crystal Palace,-1,-1
+"2026-03-14,Nott'ham Forest,Fulham",2026-03-14,30,Nott'ham Forest,Fulham,-1,-1
+"2026-03-14,Arsenal,Everton",2026-03-14,30,Arsenal,Everton,-1,-1
+"2026-03-14,Crystal Palace,Leeds United",2026-03-14,30,Crystal Palace,Leeds United,-1,-1
+"2026-03-14,Chelsea,Newcastle Utd",2026-03-14,30,Chelsea,Newcastle Utd,-1,-1
+"2026-03-14,Manchester Utd,Aston Villa",2026-03-14,30,Manchester Utd,Aston Villa,-1,-1
+"2026-03-14,Liverpool,Tottenham",2026-03-14,30,Liverpool,Tottenham,-1,-1
+"2026-03-14,West Ham,Manchester City",2026-03-14,30,West Ham,Manchester City,-1,-1
+"2026-03-14,Burnley,Bournemouth",2026-03-14,30,Burnley,Bournemouth,-1,-1
+"2026-03-14,Brentford,Wolves",2026-03-14,30,Brentford,Wolves,-1,-1
+"2026-03-14,Sunderland,Brighton",2026-03-14,30,Sunderland,Brighton,-1,-1
+"2026-03-21,Everton,Chelsea",2026-03-21,31,Everton,Chelsea,-1,-1
+"2026-03-21,Fulham,Burnley",2026-03-21,31,Fulham,Burnley,-1,-1
+"2026-03-21,Aston Villa,West Ham",2026-03-21,31,Aston Villa,West Ham,-1,-1
+"2026-03-21,Brighton,Liverpool",2026-03-21,31,Brighton,Liverpool,-1,-1
+"2026-03-21,Newcastle Utd,Sunderland",2026-03-21,31,Newcastle Utd,Sunderland,-1,-1
+"2026-03-21,Leeds United,Brentford",2026-03-21,31,Leeds United,Brentford,-1,-1
+"2026-03-21,Wolves,Arsenal",2026-03-21,31,Wolves,Arsenal,-1,-1
+"2026-03-21,Tottenham,Nott'ham Forest",2026-03-21,31,Tottenham,Nott'ham Forest,-1,-1
+"2026-03-21,Manchester City,Crystal Palace",2026-03-21,31,Manchester City,Crystal Palace,-1,-1
+"2026-03-21,Bournemouth,Manchester Utd",2026-03-21,31,Bournemouth,Manchester Utd,-1,-1
+"2026-04-11,Burnley,Brighton",2026-04-11,32,Burnley,Brighton,-1,-1
+"2026-04-11,Brentford,Everton",2026-04-11,32,Brentford,Everton,-1,-1
+"2026-04-11,Liverpool,Fulham",2026-04-11,32,Liverpool,Fulham,-1,-1
+"2026-04-11,Manchester Utd,Leeds United",2026-04-11,32,Manchester Utd,Leeds United,-1,-1
+"2026-04-11,West Ham,Wolves",2026-04-11,32,West Ham,Wolves,-1,-1
+"2026-04-11,Nott'ham Forest,Aston Villa",2026-04-11,32,Nott'ham Forest,Aston Villa,-1,-1
+"2026-04-11,Sunderland,Tottenham",2026-04-11,32,Sunderland,Tottenham,-1,-1
+"2026-04-11,Crystal Palace,Newcastle Utd",2026-04-11,32,Crystal Palace,Newcastle Utd,-1,-1
+"2026-04-11,Chelsea,Manchester City",2026-04-11,32,Chelsea,Manchester City,-1,-1
+"2026-04-11,Arsenal,Bournemouth",2026-04-11,32,Arsenal,Bournemouth,-1,-1
+"2026-04-18,Aston Villa,Sunderland",2026-04-18,33,Aston Villa,Sunderland,-1,-1
+"2026-04-18,Brentford,Fulham",2026-04-18,33,Brentford,Fulham,-1,-1
+"2026-04-18,Crystal Palace,West Ham",2026-04-18,33,Crystal Palace,West Ham,-1,-1
+"2026-04-18,Newcastle Utd,Bournemouth",2026-04-18,33,Newcastle Utd,Bournemouth,-1,-1
+"2026-04-18,Chelsea,Manchester Utd",2026-04-18,33,Chelsea,Manchester Utd,-1,-1
+"2026-04-18,Leeds United,Wolves",2026-04-18,33,Leeds United,Wolves,-1,-1
+"2026-04-18,Nott'ham Forest,Burnley",2026-04-18,33,Nott'ham Forest,Burnley,-1,-1
+"2026-04-18,Manchester City,Arsenal",2026-04-18,33,Manchester City,Arsenal,-1,-1
+"2026-04-18,Tottenham,Brighton",2026-04-18,33,Tottenham,Brighton,-1,-1
+"2026-04-18,Everton,Liverpool",2026-04-18,33,Everton,Liverpool,-1,-1
+"2026-04-25,Fulham,Aston Villa",2026-04-25,34,Fulham,Aston Villa,-1,-1
+"2026-04-25,Liverpool,Crystal Palace",2026-04-25,34,Liverpool,Crystal Palace,-1,-1
+"2026-04-25,Brighton,Chelsea",2026-04-25,34,Brighton,Chelsea,-1,-1
+"2026-04-25,West Ham,Everton",2026-04-25,34,West Ham,Everton,-1,-1
+"2026-04-25,Wolves,Tottenham",2026-04-25,34,Wolves,Tottenham,-1,-1
+"2026-04-25,Manchester Utd,Brentford",2026-04-25,34,Manchester Utd,Brentford,-1,-1
+"2026-04-25,Burnley,Manchester City",2026-04-25,34,Burnley,Manchester City,-1,-1
+"2026-04-25,Sunderland,Nott'ham Forest",2026-04-25,34,Sunderland,Nott'ham Forest,-1,-1
+"2026-04-25,Bournemouth,Leeds United",2026-04-25,34,Bournemouth,Leeds United,-1,-1
+"2026-04-25,Arsenal,Newcastle Utd",2026-04-25,34,Arsenal,Newcastle Utd,-1,-1
+"2026-05-02,Chelsea,Nott'ham Forest",2026-05-02,35,Chelsea,Nott'ham Forest,-1,-1
+"2026-05-02,Brentford,West Ham",2026-05-02,35,Brentford,West Ham,-1,-1
+"2026-05-02,Everton,Manchester City",2026-05-02,35,Everton,Manchester City,-1,-1
+"2026-05-02,Leeds United,Burnley",2026-05-02,35,Leeds United,Burnley,-1,-1
+"2026-05-02,Manchester Utd,Liverpool",2026-05-02,35,Manchester Utd,Liverpool,-1,-1
+"2026-05-02,Aston Villa,Tottenham",2026-05-02,35,Aston Villa,Tottenham,-1,-1
+"2026-05-02,Newcastle Utd,Brighton",2026-05-02,35,Newcastle Utd,Brighton,-1,-1
+"2026-05-02,Bournemouth,Crystal Palace",2026-05-02,35,Bournemouth,Crystal Palace,-1,-1
+"2026-05-02,Wolves,Sunderland",2026-05-02,35,Wolves,Sunderland,-1,-1
+"2026-05-02,Arsenal,Fulham",2026-05-02,35,Arsenal,Fulham,-1,-1
+"2026-05-09,Liverpool,Chelsea",2026-05-09,36,Liverpool,Chelsea,-1,-1
+"2026-05-09,Sunderland,Manchester Utd",2026-05-09,36,Sunderland,Manchester Utd,-1,-1
+"2026-05-09,Burnley,Aston Villa",2026-05-09,36,Burnley,Aston Villa,-1,-1
+"2026-05-09,Nott'ham Forest,Newcastle Utd",2026-05-09,36,Nott'ham Forest,Newcastle Utd,-1,-1
+"2026-05-09,Fulham,Bournemouth",2026-05-09,36,Fulham,Bournemouth,-1,-1
+"2026-05-09,Crystal Palace,Everton",2026-05-09,36,Crystal Palace,Everton,-1,-1
+"2026-05-09,Tottenham,Leeds United",2026-05-09,36,Tottenham,Leeds United,-1,-1
+"2026-05-09,Brighton,Wolves",2026-05-09,36,Brighton,Wolves,-1,-1
+"2026-05-09,West Ham,Arsenal",2026-05-09,36,West Ham,Arsenal,-1,-1
+"2026-05-09,Manchester City,Brentford",2026-05-09,36,Manchester City,Brentford,-1,-1
+"2026-05-17,Bournemouth,Manchester City",2026-05-17,37,Bournemouth,Manchester City,-1,-1
+"2026-05-17,Arsenal,Burnley",2026-05-17,37,Arsenal,Burnley,-1,-1
+"2026-05-17,Aston Villa,Liverpool",2026-05-17,37,Aston Villa,Liverpool,-1,-1
+"2026-05-17,Wolves,Fulham",2026-05-17,37,Wolves,Fulham,-1,-1
+"2026-05-17,Brentford,Crystal Palace",2026-05-17,37,Brentford,Crystal Palace,-1,-1
+"2026-05-17,Manchester Utd,Nott'ham Forest",2026-05-17,37,Manchester Utd,Nott'ham Forest,-1,-1
+"2026-05-17,Chelsea,Tottenham",2026-05-17,37,Chelsea,Tottenham,-1,-1
+"2026-05-17,Leeds United,Brighton",2026-05-17,37,Leeds United,Brighton,-1,-1
+"2026-05-17,Everton,Sunderland",2026-05-17,37,Everton,Sunderland,-1,-1
+"2026-05-17,Newcastle Utd,West Ham",2026-05-17,37,Newcastle Utd,West Ham,-1,-1
+"2026-05-24,Sunderland,Chelsea",2026-05-24,38,Sunderland,Chelsea,-1,-1
+"2026-05-24,Crystal Palace,Arsenal",2026-05-24,38,Crystal Palace,Arsenal,-1,-1
+"2026-05-24,Manchester City,Aston Villa",2026-05-24,38,Manchester City,Aston Villa,-1,-1
+"2026-05-24,West Ham,Leeds United",2026-05-24,38,West Ham,Leeds United,-1,-1
+"2026-05-24,Tottenham,Everton",2026-05-24,38,Tottenham,Everton,-1,-1
+"2026-05-24,Brighton,Manchester Utd",2026-05-24,38,Brighton,Manchester Utd,-1,-1
+"2026-05-24,Liverpool,Brentford",2026-05-24,38,Liverpool,Brentford,-1,-1
+"2026-05-24,Fulham,Newcastle Utd",2026-05-24,38,Fulham,Newcastle Utd,-1,-1
+"2026-05-24,Nott'ham Forest,Bournemouth",2026-05-24,38,Nott'ham Forest,Bournemouth,-1,-1
+"2026-05-24,Burnley,Wolves",2026-05-24,38,Burnley,Wolves,-1,-1
