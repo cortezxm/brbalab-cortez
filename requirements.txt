@@ -1,0 +1,10 @@
+# Notebook (tested on Python 3.12)
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+ipywidgets==8.1.9
+
+# Only needed to run the scrapers live (acquisition/scraper.py), not the notebook:
+# selenium playwright beautifulsoup4 lxml psutil fuzzywuzzy geopy requests

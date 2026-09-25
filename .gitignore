@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+backend/output/
+
+# Never commit credentials
+brbalaboratory.json
+client_secret*.json
+credentials.json
+*.pem
