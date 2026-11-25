@@ -52,7 +52,7 @@ flowchart LR
     class A1,A2,B,O,S mine;
 ```
 
-<sub>Blue outline: the parts I built. The rating/simulation and export layers were built by my teammate on the same contract.</sub>
+<sub>Blue outline: the parts I built. The rating and simulation layers were built by my teammate on the same contract; the export to Google Sheets was shared work.</sub>
 
 <p align="center">
   <img alt="The 2025 FIFA scraper running live on 11v11.com: the terminal log on the left, Chrome opening each Mexico match page on the right, sped up 14 times" src="assets/fifa_scraper.gif" width="760">
